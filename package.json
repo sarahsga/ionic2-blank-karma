@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "ionic2-blank-karma",
+  "author": "Sarah Ahmed sarahsga4@gmail.com",
+  "homepage": "https://github.com/sarahsga/ionic2-blank-karma",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -54,13 +54,6 @@
     "cordova-plugin-splashscreen",
     "ionic-plugin-keyboard"
   ],
-  "cordovaPlatforms": [
-    "ios",
-    {
-      "platform": "ios",
-      "version": "",
-      "locator": "ios"
-    }
-  ],
+  "cordovaPlatforms": [],
   "description": "i2starterWithKarma: An Ionic project"
 }
